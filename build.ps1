@@ -1,3 +1,4 @@
+npm install
 tsc .\tradeGeneration.ts
 tsc .\hashRecordingService.ts
 mv -force .\tradeGeneration.js .\trade_services\server\app\server.js
