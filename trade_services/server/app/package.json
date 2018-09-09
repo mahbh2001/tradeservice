@@ -12,7 +12,7 @@
     "@types/crypto-js": "^3.1.43",
     "@types/zmq": "0.0.22",
     "chalk": "^2.4.1",
-    "crypto": "^1.0.1",
+    "crypto-js": "^3.1.9-1",
     "microseconds": "^0.1.0",
     "moleculer": "^0.13.2",
     "moleculer-db": "^0.7.5",
